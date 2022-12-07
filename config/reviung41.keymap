@@ -14,8 +14,6 @@
 #define NAV   1
 #define MOUSE 2
 #define NUM   3
-#define BLANK 4
-#define FUNC  5
 
 / {
         keymap {
